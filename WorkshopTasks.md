@@ -9,6 +9,7 @@
 ## Tasks
 
 I changed this line
+I changed another one
 
 1. **Fork** the repository <https://github.com/benroberts999/git-workshop> on github
 

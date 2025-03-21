@@ -13,6 +13,8 @@ I changed another one
 
 I'm on a different branch
 
+I'm on another branch
+
 1. **Fork** the repository <https://github.com/benroberts999/git-workshop> on github
 
 * click the 'fork' button

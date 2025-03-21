@@ -11,6 +11,8 @@
 I changed this line
 I changed another one
 
+I'm on a different branch
+
 1. **Fork** the repository <https://github.com/benroberts999/git-workshop> on github
 
 * click the 'fork' button
